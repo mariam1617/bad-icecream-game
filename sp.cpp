@@ -54,8 +54,8 @@ const int width_of_block = 118;
 const int scale_b4 = 59;//the horizontal distanse between the middle and border fruit
 int scale_b5 = 297;//the virtical distance between center fruit
 
-bool pass_level1 = true;
-bool pass_level2 = false;
+/*bool pass_level1 = false;
+bool pass_level2 = false;*/
 
 
 string oneflav = "null";

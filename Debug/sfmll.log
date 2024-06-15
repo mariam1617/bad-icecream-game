@@ -1,223 +1,225 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sfmll.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Play.cpp
   sp.cpp
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(90,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(90,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(96,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(96,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(106,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(106,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(107,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(107,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(117,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(117,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(123,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(127,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(127,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(131,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(135,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(135,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(151,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(151,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(153,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(158,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(158,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(160,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(160,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(166,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(166,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(169,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(174,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(174,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(177,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(177,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(212,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(212,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(214,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(219,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(219,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(221,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(221,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(226,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(226,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(228,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(233,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(233,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(235,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(235,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(251,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(251,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(253,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(259,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(259,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(261,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(266,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(266,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(268,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(268,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(273,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(273,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(275,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(275,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(280,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(280,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(282,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(287,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(287,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(289,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(297,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(297,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(299,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(302,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(302,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(304,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(307,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(307,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(309,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(312,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(312,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(314,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(491,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(491,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(495,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(495,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(499,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(499,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(503,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(503,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(507,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(517,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(517,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(522,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(522,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(527,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(527,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(531,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(531,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(535,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(535,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(539,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(539,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(854,6): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1231,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1231,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1238,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1238,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1253,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1254,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1283,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1284,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1373,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1373,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1380,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1380,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,35): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,35): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,35): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,35): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,27): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,27): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,27): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1467,27): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1473,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1473,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1484,21): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1484,16): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1571,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1571,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1601,33): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1601,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1605,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1648,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1648,43): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1648,43): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1648,43): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1648,43): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1707,33): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1720,33): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1753,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1753,40): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1753,40): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1753,40): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1753,40): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1771,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1771,30): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1771,30): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1771,30): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1771,30): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1792,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1792,29): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1792,29): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1792,29): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1792,29): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1808,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1811,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1902,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,64): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,64): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,64): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,64): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,47): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,47): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,47): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1928,47): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,64): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,64): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,64): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,64): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,47): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,47): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,47): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1933,47): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,64): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,64): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,64): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,64): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,47): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,47): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,47): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1938,47): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,39): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,39): warning C4305:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,39): warning C4305:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,39): warning C4305:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,39): warning C4305:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,34): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,34): warning C4305:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,34): warning C4305:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,34): warning C4305:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1960,34): warning C4305:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,59): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,59): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,59): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,59): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,42): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,42): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,42): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1981,42): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1982,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,59): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,59): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,59): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,59): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,42): warning C4244:         with
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,42): warning C4244:         [
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,42): warning C4244:             T=float
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1986,42): warning C4244:         ]
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(1987,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(2207,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(2209,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(2211,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\ghada\Desktop\vs\SP Project\sp.cpp(2156): warning C4715: 'llmenu': not all control paths return a value
-  sfmll.vcxproj -> C:\Users\ghada\Desktop\vs\SP Project\Debug\sp.exe
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(90,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(90,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(96,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(96,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(106,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(106,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(107,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(107,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(117,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(117,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(123,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(127,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(127,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(131,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(135,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(135,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(151,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(151,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(153,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(158,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(158,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(160,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(160,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(166,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(166,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(169,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(174,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(174,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(177,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(177,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(212,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(212,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(214,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(219,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(219,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(221,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(221,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(226,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(226,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(228,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(233,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(233,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(235,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(235,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(251,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(251,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(253,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(259,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(259,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(261,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(266,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(266,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(268,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(268,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(273,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(273,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(275,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(275,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(280,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(280,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(282,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(287,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(287,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(289,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(297,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(297,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(299,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(302,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(302,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(304,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(307,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(307,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(309,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(312,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(312,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(314,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(491,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(491,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(495,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(495,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(499,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(499,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(503,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(503,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(507,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(517,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(517,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(522,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(522,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(527,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(527,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(531,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(531,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(535,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(535,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(539,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(539,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(854,6): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1231,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1231,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1238,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1238,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1253,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1254,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1283,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1284,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1373,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1373,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1380,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1380,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,35): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,35): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,35): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,35): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,27): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,27): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,27): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1467,27): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1473,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1473,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1484,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1484,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1571,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1571,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1601,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1601,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1605,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1648,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1648,43): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1648,43): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1648,43): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1648,43): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1707,33): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1720,33): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1753,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1753,40): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1753,40): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1753,40): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1753,40): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1771,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1771,30): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1771,30): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1771,30): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1771,30): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1792,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1792,29): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1792,29): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1792,29): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1792,29): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1808,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1811,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1902,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,64): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,64): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,64): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,64): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,47): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,47): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,47): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1928,47): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,64): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,64): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,64): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,64): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,47): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,47): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,47): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1933,47): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,64): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,64): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,64): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,64): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,47): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,47): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,47): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1938,47): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,39): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,39): warning C4305:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,39): warning C4305:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,39): warning C4305:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,39): warning C4305:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,34): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,34): warning C4305:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,34): warning C4305:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,34): warning C4305:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1960,34): warning C4305:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,59): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,59): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,59): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,59): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,42): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,42): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,42): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1981,42): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1982,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,59): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,59): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,59): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,59): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,42): warning C4244:         with
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,42): warning C4244:         [
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,42): warning C4244:             T=float
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1986,42): warning C4244:         ]
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(1987,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(2207,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(2209,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(2211,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\sp.cpp(2156): warning C4715: 'llmenu': not all control paths return a value
+  sfmll.vcxproj -> C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\Debug\sp.exe

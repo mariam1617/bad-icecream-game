@@ -1,2 +1,3 @@
 C:\Users\ghada\Desktop\vs\sfmll\Debug\sfmll.exe
 C:\Users\ghada\Desktop\vs\SP Project\Debug\sp.exe
+C:\Users\ghada\Desktop\vs\SP Project\bad-icecream-game\Debug\sp.exe
